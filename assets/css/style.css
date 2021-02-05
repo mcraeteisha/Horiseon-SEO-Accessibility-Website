@@ -1,3 +1,5 @@
+/*Sets the layout for all content on the page*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -19,6 +21,8 @@ h1 {
     display: inline-block;
     font-size: 48px;
 }
+
+/*Sets the color of the 'seo' in 'Horiseon' to grey*/
 
 .seo {
     color: #d9dcd6;
@@ -43,6 +47,8 @@ a {
     text-decoration: none;
 }
 
+/*This is the source of the page's hero image and styling for the image*/
+
 .hero {
     height: 800px;
     width: 100%;
@@ -51,6 +57,8 @@ a {
     background-size: cover;
     background-position: center;
 }
+
+/*Styling for the page's main content; the SEO, Online Reputation Management, and Social Media Marketing cards.*/
 
 .content {
     width: 75%;
@@ -90,6 +98,8 @@ p {
     margin-left: 25px;
 }
 
+/*Sets styling for the page's aside, which lists benefits to customers*/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,6 +126,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/*Sets footer styling*/
 
 .footer {
     padding: 30px;
