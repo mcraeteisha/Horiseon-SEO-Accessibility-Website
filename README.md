@@ -24,8 +24,13 @@ I made the following changes to the CSS:
  
 ## Learnings
  
-This project required some independent learning, as well as 
-Some of the learnings I’m taking away from this project are 1) the importance of accessible websites, 2) what it means to refactor code, 3) what Semantic HTML is and how to use it, and 4) creating README files.
+This project required some independent learning and also allowed me to apply classroom lessons to a real-world scenario.
+
+Some of the learnings I’m taking away from this project are:
+1. The importance of accessible websites
+2. What it means to refactor code
+3. What Semantic HTML is and how to use it
+4. How to create README files
  
 ## Author
 Teisha McRae
